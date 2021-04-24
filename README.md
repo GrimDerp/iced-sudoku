@@ -3,7 +3,7 @@
 
 
 
-Rust is neat so far
-TODO must add Jenkins
-& Kube & Docker
+Rust is neat so far<br>
+TODO must add Jenkins<br>
+& Kube & Docker<b>
 
